@@ -5,5 +5,6 @@ if user_input == 'yes':
 else:
     user2  = input('do you know python?')
     if user2 == 'yes':
-    
+        
         print('yeahhhh')
+        print('great')
